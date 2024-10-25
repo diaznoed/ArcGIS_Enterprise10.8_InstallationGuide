@@ -1,0 +1,1 @@
+F:\Program Files\ArcGIS\DataStore\tools\updatesslcertificate.bat F:\InstallScripts\5.5\5.5.8\webservercert.pfx password alias

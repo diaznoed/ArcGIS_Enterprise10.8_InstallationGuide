@@ -1,0 +1,5 @@
+Open up CMD as admin, and paste the lines below:
+
+:: Execute ArcGIS Site build
+F:
+F:\ArcGIS\Server\tools\createsite\createsite.bat -f createsite.properties
